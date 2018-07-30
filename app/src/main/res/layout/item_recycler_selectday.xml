@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/select_ly_day"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:layout_height="45dp"
+    android:gravity="center"
+    android:layout_marginBottom="2dp"
+    android:layout_marginTop="2dp"
+    android:orientation="vertical"
+    android:paddingBottom="6dp"
+    android:paddingTop="6dp">
+
+    <TextView
+        android:id="@+id/select_txt_day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#282828"
+        android:gravity="center"
+        android:text="" />
+
+</LinearLayout>
